@@ -2,11 +2,11 @@
 Apresentaçao 27/05
 
 Grupo:
--Samuel
--Bianka
--Raissa
--Camila
--Lucas R.
+-Samuel Henrique
+-Bianka Vieira
+-Raissa Helena
+-Camila Patrussi
+-Lucas Rafael
 
 # 6.2 Comandos Git
 

@@ -8,6 +8,8 @@ Grupo:
 -Camila Patrussi
 -Lucas Rafael
 
+O Git é uma ferramenta utilizada para controlar versões de projetos, permitindo registrar alterações no código e facilitar o trabalho em equipe. Sua evolução trouxe mais segurança, rapidez e colaboração no desenvolvimento de software, já que cada desenvolvedor possui uma cópia completa do repositório.
+
 # 6.2 Comandos Git
 
 ## 6.2.1 Init
